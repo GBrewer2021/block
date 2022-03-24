@@ -1,0 +1,15 @@
+gspe19-ssl.ls.apple.com
+s3-media3.fl.yelpcdn.com
+gsp-ssl.ls.apple.com
+experiment-allocation.yelp.com
+graph.facebook.com
+s3-media1.fl.yelpcdn.com
+mobile-api.yelp.com
+graphql-mobile-api.yelp.com
+s3-media2.fl.yelpcdn.com
+s3-media0.fl.yelpcdn.com
+bunsen.yelp.com
+auto-api.yelp.com
+ocsp.digicert.com
+www.paypalobjects.com
+www.yelp.com
