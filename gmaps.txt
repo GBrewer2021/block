@@ -28,3 +28,5 @@ maps.gstatic.com
 lh5.googleusercontent.com
 gz.gstatic.com
 instantmessaging-pa.googleapis.com
+www.maps.google.com
+www.googlemaps.com
