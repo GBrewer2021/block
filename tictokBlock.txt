@@ -1,0 +1,17 @@
+api-h2.tiktokv.com
+bytedance.com
+byteoversea.com
+ibytedtos.com
+ibyteimg.com
+muscdn.com
+musemuse.cn
+musical.ly
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+pi2-16-h2.musical.ly.edgekey.net
+bytedance.map.fastly.net
+musically-alternate.app.link
+musically.app.link
+p16-tiktokcdn-com.akamaized.net
+video.h1.bytedance.map.fastly.net
