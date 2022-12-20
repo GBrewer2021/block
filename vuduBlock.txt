@@ -3,4 +3,3 @@ images2.vudu.com
 vudu.d1.sc.omtrdc.net
 api.vudu.com
 www.vudu.com
-
