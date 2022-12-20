@@ -1,7 +1,6 @@
 apicache.vudu.com
 images2.vudu.com
 vudu.d1.sc.omtrdc.net
-e3443.e12.akamaiedge.net
 images.fandango.com
 d32spzreumtglt.cloudfront.net
 fandango.api.kustomerapp.com
@@ -9,7 +8,6 @@ e7808.dscg.akamaiedge.net
 d1asz61d3z5oc2.cloudfront.net
 api.vudu.com
 www.vudu.com
-e12919.dscd.akamaiedge.net
 2.4.168.192.in
 az764295.vo.msecnd.net
 2.4.168.192.in-addr.arpa
