@@ -11,3 +11,4 @@ api.vudu.com
 www.vudu.com
 e12919.dscd.akamaiedge.net
 2.4.168.192.in
+gateway.fe.apple-dns.net
