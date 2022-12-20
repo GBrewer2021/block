@@ -4,7 +4,6 @@ vudu.d1.sc.omtrdc.net
 images.fandango.com
 d32spzreumtglt.cloudfront.net
 fandango.api.kustomerapp.com
-e7808.dscg.akamaiedge.net
 d1asz61d3z5oc2.cloudfront.net
 api.vudu.com
 www.vudu.com
