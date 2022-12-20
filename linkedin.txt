@@ -2,9 +2,4 @@ www.linkedin.com
 static-exp1.licdn.com 
 platform.linkedin.com 
 sb.scorecardresearch.com 
-www.youtube.com
-googleads.g.doubleclick.net 
-static.doubleclick.net 
-yt3.ggpht.com
-i.ytimg.com 
-fonts.gstatic.com 
+
