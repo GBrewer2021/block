@@ -18,3 +18,5 @@ whatsapp-cdn-shv-01-ord1.fbcdn.net
 whatsapp-cdn-shv-01-sea1.fbcdn.net
 whatsapp-cdn-shv-01-sjc2.fbcdn.net
 c.whatsapp.net
+www.whatsapp.com
+chat.cdn.whatsapp.net
