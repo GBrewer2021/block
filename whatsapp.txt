@@ -482,7 +482,7 @@ e2.whatsapp.net
 dit.whatsapp.net
 e5.whatsapp.net
 e6.whatsapp.net
-google.com
+
 media-lga3-2.cdn.whatsapp.net
 157.240.11.54
 y9yrsygcg6.execute-api.us-east-1.amazonaws.com
@@ -589,3 +589,10 @@ graph.whatsapp.com
 157.240.229.61
 31.13.71.50
 31.13.65.50
+web.whatsapp.com
+pps.whatsapp.net
+mmg.whatsapp.net
+mmg-fna.whatsapp.net
+g.whatsapp.net
+e5.whatsapp.net
+chat.cdn.whatsapp.net
