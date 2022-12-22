@@ -1,32 +1,32 @@
-mobilemaps.googleapis.com
-oauthaccountmanager.googleapis.com
-mobilemaps-pa-gz.googleapis.com
-people-pa.googleapis.com
-www.googleapis.com
-lh3.googleusercontent.com
-app-measurement.com
-inappcheck.itunes.apple.com
-accountcapabilities-pa.googleapis.com
-peoplestack-pa.googleapis.com
-geoar.googleapis.com
-streetviewpixels-pa.googleapis.com
-play.googleapis.com
-geller-pa.googleapis.com
-accounts.google.com
-gz0.googleusercontent.com
-encrypted-tbn1.gstatic.com
-encrypted-tbn0.gstatic.com
-encrypted-tbn2.gstatic.com
-t1.gstatic.com
-scone-pa.googleapis.com
-ocsp.pki.goog
-www.google.com
-encrypted-tbn3.gstatic.com
-www.googleadservices.com
-ssl.gstatic.com
-maps.gstatic.com
-lh5.googleusercontent.com
-gz.gstatic.com
-instantmessaging-pa.googleapis.com
-www.maps.google.com
-www.googlemaps.com
+0.0.0.0 mobilemaps.googleapis.com
+0.0.0.0 oauthaccountmanager.googleapis.com
+0.0.0.0 mobilemaps-pa-gz.googleapis.com
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 www.googleapis.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 app-measurement.com
+0.0.0.0 inappcheck.itunes.apple.com
+0.0.0.0 accountcapabilities-pa.googleapis.com
+0.0.0.0 peoplestack-pa.googleapis.com
+0.0.0.0 geoar.googleapis.com
+0.0.0.0 streetviewpixels-pa.googleapis.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 gz0.googleusercontent.com
+0.0.0.0 encrypted-tbn1.gstatic.com
+0.0.0.0 encrypted-tbn0.gstatic.com
+0.0.0.0 encrypted-tbn2.gstatic.com
+0.0.0.0 t1.gstatic.com
+0.0.0.0 scone-pa.googleapis.com
+0.0.0.0 ocsp.pki.goog
+0.0.0.0 encrypted-tbn3.gstatic.com
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 maps.gstatic.com
+0.0.0.0 lh5.googleusercontent.com
+0.0.0.0 gz.gstatic.com
+0.0.0.0 instantmessaging-pa.googleapis.com
+0.0.0.0 www.maps.google.com
+0.0.0.0 www.googlemaps.com
+0.0.0.0 googlemaps.com
+0.0.0.0 maps.google.com
+
