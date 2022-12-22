@@ -1,28 +1,22 @@
-www.secure.software
-ca.slack-edge.com
-ca.slack-edge.com
-sessions.bugsnag.com
-ocsp.sectigo.com
-files.slack.com
-files.slack.com
-secure.gravatar.com
-edgeapi.slack.com
-edgeapi.slack.com
-slack.com
-slack.com
-wss-mobile.slack.com
-wss-mobile.slack.com
-slackb.com
-slackb.com
-www.delawareinc.com
-www.delawareinc.com
-slack-imgs.com
-slack-imgs.com
-snyk.io
-ocsp.digicert.com
-avatars.slack-edge.com
-avatars.slack-edge.com
-cdn.privacy-mgmt.com
-press.aura.com
-www.businessinsider.com
-www.slack.com
+0.0.0.0 ca.slack-edge.com
+0.0.0.0 ca.slack-edge.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 ocsp.sectigo.com
+0.0.0.0 files.slack.com
+0.0.0.0 files.slack.com
+0.0.0.0 secure.gravatar.com
+0.0.0.0 edgeapi.slack.com
+0.0.0.0 edgeapi.slack.com
+0.0.0.0 slack.com
+0.0.0.0 slack.com
+0.0.0.0 wss-mobile.slack.com
+0.0.0.0 wss-mobile.slack.com
+0.0.0.0 slackb.com
+0.0.0.0 slackb.com
+0.0.0.0 slack-imgs.com
+0.0.0.0 slack-imgs.com
+0.0.0.0 avatars.slack-edge.com
+0.0.0.0 avatars.slack-edge.com
+0.0.0.0 www.slack.com
+0.0.0.0 slack.com
+
