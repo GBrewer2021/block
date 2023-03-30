@@ -66,3 +66,4 @@
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
+pagead2.googleadservices.com
