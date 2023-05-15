@@ -1,3 +1,6 @@
-twitch.com
-www.twitch.com
-twitch.tv
+^twitch\\.com$ 
+^.+\\.twitch\\.com$
+^www\\.twitch\\.com$
+^.+\\.www\\.twitch\\.com$
+^twitch\\.tv$
+^.+\\.twitch\\.tv$
